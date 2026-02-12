@@ -1,0 +1,14 @@
+body {
+    background-color: grey;
+}
+
+div {
+    text-align: center;
+}
+
+#newButton {
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
